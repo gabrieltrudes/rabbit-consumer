@@ -1,0 +1,7 @@
+
+spring:
+  rabbitmq:
+    addresses: "seu endereço aqui"
+
+queue:
+  fiap: fiap.1scjr.mensagens
